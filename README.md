@@ -2,11 +2,11 @@
 # Github Flavoured Markdown
 
 ### Checkbox: 
-- [ ] [External Link]([https://help.github.com/en](https://github.com/Neda-Salahian/repository/edit/main/README.md#ExternalLink))
-- [ ] [Internal Link](https://github.com/Neda-Salahian/repository/edit/main/README.md#InternalLink)
-- [ ] [Images](https://github.com/Neda-Salahian/repository/edit/main/README.md#Images)
-- [ ] [Emojis](https://github.com/Neda-Salahian/repository/edit/main/README.md#Emojis)
-- [ ] [Tables](https://github.com/Neda-Salahian/repository/edit/main/README.md#Tables)
+- [ ] [External Link]([https://help.github.com/en](https://github.com/Neda-Salahian/repository/blob/main/README.md#ExternalLink))
+- [ ] [Internal Link](https://github.com/Neda-Salahian/repository/blob/main/README.md#InternalLink)
+- [ ] [Images](https://github.com/Neda-Salahian/repository/blob/main/README.md#Images)
+- [ ] [Emojis](https://github.com/Neda-Salahian/repository/blob/main/README.md#Emojis)
+- [ ] [Tables](https://github.com/Neda-Salahian/repository/blob/main/README.md#Tables)
 
 
 
