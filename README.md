@@ -3,7 +3,7 @@
 
 ### Checkbox: 
 - [ ] [External Link](https://help.github.com/en)
-- [ ] [Internal Link] (302.png)
+- [ ] ![Internal Link](images/logo.png)
 - [ ] [Images] 
 - [ ] [Emojis] 
 - [ ] [Tables]
@@ -14,5 +14,12 @@
 | --- | --- |
 | `Neda` | Dci *WD23* |
 | `Anna` | Dci **WD34** |
+
+
+
+### Emoji 
+Gone camping! :tent: Be back soon. :grin:
+
+That is so funny! :joy: :grin:
 
 
