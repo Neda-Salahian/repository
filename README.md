@@ -17,7 +17,7 @@ https://help.github.com/en
 
 # Internal Link
 
-[Images] (https://github.com/Neda-Salahian/repository/blob/main/images/logo.png)
+[Images-Folder](https://github.com/Neda-Salahian/repository/blob/main/images/logo.png)
 
 
 # Images
@@ -38,7 +38,7 @@ That is so funny! :joy: :grin:
 
 
 
-[Image](images/logo.png#images)
+
 
 
 
