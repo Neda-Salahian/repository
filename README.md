@@ -21,7 +21,7 @@ https://help.github.com/en
 
 
 # Images
-![image](https://github.com/Neda-Salahian/repository/blob/images/logo.png)
+![image](https://github.com/Neda-Salahian/repository/blob/main/images/logo.png)
 
 # Emojis
 Gone camping! :tent: Be back soon. :grin:
