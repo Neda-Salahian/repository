@@ -2,7 +2,7 @@
 # Github Flavoured Markdown
 
 ### Checkbox: 
-- [ ] [External Link](https://github.com/Neda-Salahian/repository/blob/main/README.md#ExternalLink)
+- [ ] [External Link](#external-link)
 - [ ] [Internal Link](https://github.com/Neda-Salahian/repository/blob/main/README.md#InternalLink)
 - [ ] [Images](https://github.com/Neda-Salahian/repository/blob/main/README.md#Images)
 - [ ] [Emojis](https://github.com/Neda-Salahian/repository/blob/main/README.md#Emojis)
