@@ -21,7 +21,7 @@ https://help.github.com/en
 
 
 # Images
-![image](images/logo.png)
+![image](../images/logo.png)
 
 # Emojis
 Gone camping! :tent: Be back soon. :grin:
