@@ -3,10 +3,10 @@
 
 ### Checkbox: 
 - [ ] [External Link](#external-link)
-- [ ] [Internal Link](https://github.com/Neda-Salahian/repository/blob/main/README.md#InternalLink)
-- [ ] [Images](https://github.com/Neda-Salahian/repository/blob/main/README.md#Images)
-- [ ] [Emojis](https://github.com/Neda-Salahian/repository/blob/main/README.md#Emojis)
-- [ ] [Tables](https://github.com/Neda-Salahian/repository/blob/main/README.md#Tables)
+- [ ] [Internal Link](#internal-link)
+- [ ] [Images](#images)
+- [ ] [Emojis](#emojis)
+- [ ] [Tables](#tables)
 
 
 
